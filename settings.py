@@ -11,6 +11,8 @@ def settings():
         """
         <style>
         .stAppHeader  {display: none;}
+        ._container_gzau3_1   {display: none;}
+        ._profileContainer_gzau3_53   {display: none;}
         .stMainBlockContainer {padding-top: 1rem;}
         </style>
         """,
