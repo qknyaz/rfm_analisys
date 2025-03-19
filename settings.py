@@ -9,6 +9,7 @@ def settings():
 
     st.markdown(
         """
+        <script src="https://telegram.org/js/telegram-web-app.js"></script>
         <style>
         .stAppHeader  {display: none;}
         ._container_gzau3_1   {display: none;}
